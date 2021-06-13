@@ -172,3 +172,10 @@ themeButton.addEventListener('click', () => {
     localStorage.setItem('selected-theme', getCurrentTheme())
     localStorage.setItem('selected-icon', getCurrentIcon())
 })
+
+// Contact form submission
+const contactName = document.getElementById('contact__name')
+const contactEmail = document.getElementById('contact__email')
+const contactMessage = document.getElementById('contact__message')
+
+function submitForm() {}
