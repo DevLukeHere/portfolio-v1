@@ -511,33 +511,30 @@ img {
   width: 80%;
 }
 .skills_js {
-  width: 40%;
+  width: 60%;
 }
 .skills_react {
-  width: 10%;
+  width: 60%;
 }
 
-.skills_php {
-  width: 90%;
-}
-.skills_node {
-  width: 80%;
+.skills_ruby {
+  width: 50%;
 }
 .skills_firebase {
-  width: 40%;
+  width: 20%;
 }
 .skills_python {
-  width: 10%;
+  width: 30%;
 }
 
-.skills_figma {
-  width: 90%;
+.skills_material {
+  width: 70%;
 }
-.skills_sketch {
-  width: 80%;
+.skills_tailwind {
+  width: 30%;
 }
-.skills_photoshop {
-  width: 40%;
+.skills_bootstrap {
+  width: 20%;
 }
 
 .skills__close .skills__list {
